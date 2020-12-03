@@ -1,0 +1,5 @@
+sentence_transformers
+chart_studio
+nltk
+tensorflow
+keras
